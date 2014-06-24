@@ -11,3 +11,5 @@ iVirgin
 iVirgin现在已开源到Github，你可以自由的修改和二次开发，我希望你引用的时候加上 `iVirgin` 字眼。
 
 最后祝天下有情人终成眷属！！！
+
+[预览地址](http://hoosin.github.io/iVirgin/)
